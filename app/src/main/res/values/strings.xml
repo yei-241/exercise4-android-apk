@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ripeness Tally</string>
+    <string name="subtitle">Tap a category to count a strawberry sample.</string>
+    <string name="total">%1$d samples recorded</string>
+    <string name="ripe">Ripe  +1  |  %1$d</string>
+    <string name="medium">Medium-ripe  +1  |  %1$d</string>
+    <string name="unripe">Unripe  +1  |  %1$d</string>
+    <string name="distribution">Ripe %1$.1f%%  |  Medium %2$.1f%%  |  Unripe %3$.1f%%</string>
+    <string name="saved">Counts are saved automatically on this device.</string>
+    <string name="reset">Reset counts</string>
+    <string name="reset_title">Clear all counts?</string>
+    <string name="reset_message">This will reset all three categories to zero.</string>
+</resources>
